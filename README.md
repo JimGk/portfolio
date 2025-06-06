@@ -14,3 +14,17 @@ Over the past years, I've built performance dashboards, automated tedious report
 - **Soft Skills:** Analytical thinking, KPI design, stakeholder collaboration
 
 ---
+
+## 📄 About This Portfolio
+
+This site is built using **GitHub Pages** and updated frequently.  
+Screenshots and sample files are anonymized to respect confidentiality.
+
+---
+
+## 📬 Let’s Connect
+
+- **LinkedIn:** [linkedin.com/in/dimitriosgogos](https://www.linkedin.com/in/dimitriosgogos/)
+- **GitHub:** [github.com/jimgk](https://github.com/jimgk)
+
+Thanks for visiting!
