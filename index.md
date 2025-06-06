@@ -2,11 +2,17 @@
 
 🧑‍💻 About Me
 
-Hi, I’m Dimitrios — a classically trained musician turned data analyst with a passion for solving problems through automation.
+I’m Dimitrios, a creative problem solver with roots in music and a deep passion for automation and analytics. Born in Thessaloniki in December 1993, I studied Ethnomusicology and have been involved in music since the age of 6. My curiosity for computers began early, and over time I’ve combined both logic and creativity in my career journey.
 
-Born in Thessaloniki in December 1993, I studied Ethnomusicology and began working in tech as a teleagent. My curiosity led me from coding in Pascal and Java to mastering Excel and Python through real-world challenges in analytics.
+After relocating to Bulgaria in 2019 for a customer support role with Air France and KLM, I rediscovered my love for tech. While working with Amadeus systems, I realized how much I enjoyed working with logic and structure. I soon moved into the content moderation world, progressing from moderator to SME to QA to Business Analyst — where I found my true passion: using data to make work easier and more impactful.
 
-I currently work as a Real-Time Analyst and Business Analyst, building tools and automations that save hundreds of hours every month. My work blends creativity and precision — from transforming massive Excel exports with Python to designing dashboards that help teams make better decisions.
+My first major challenge as a Business Analyst involved processing massive Excel exports for shift corrections — a task Excel simply couldn’t handle. I turned to Python, teaching myself through trial, error, and AI assistance. The result was a modular set of scripts that automated the entire workflow, reducing processing time from 120 hours to just 6.
+
+Building on that success, I later created a dynamic reporting system to handle 13 markets and 23 KPIs, organizing 5–6 raw Excel files per market into clean, structured outputs. I introduced a command-line interface to customize breakdowns by Line of Business and market, cutting report time from 6 hours to 30 minutes.
+
+Since then, I’ve also developed tools for Root Cause Analysis (RCA), Excel VBA automations for attendance tracking, and dashboards that provide actionable insights to Operations and QA teams.
+
+I’m now combining analytical rigor with technical creativity to design smart, scalable tools that solve real problems. Whether in Python, SQL, or Excel, I love creating efficient systems that bring clarity to complexity.
 
 ---
 
@@ -26,16 +32,16 @@ Screenshots and sample files are anonymized to respect confidentiality.
 
 ---
 
-| **Project**               | **Description**                                                              | **Tools**               | **Time Saved**       |
-|---------------------------|------------------------------------------------------------------------------|--------------------------|-----------------------|
-| **Modular Python KPI Tool** | Cleaned and organized multi-market Excel exports, automating report generation | Python, Pandas, CLI      | ⏱️ 120h → 6h          |
-| **RCA Insight Script**     | Drilldown support for QA team using KPI-based root cause analysis           | Python, Excel            | Boosted QA speed      |
-| **Attendance Tracker**     | VBA-powered Excel tools to monitor adherence and activity                   | Excel VBA                | Improved visibility   |
-| **Ops Dashboards**         | Dashboards for QA & Ops with actionable insights                            | Excel Dashboards         | Data-driven actions   |
-
+| **Project**                     | **Description**                                                                                       | **Tools**                 | **Time Saved**         |
+|---------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------|-------------------------|
+| **Shift Correction Automation** | Modular Python scripts to automate internal shift corrections and partial invoicing workflows        | Python, Pandas, CLI        | ⏱️ 120h → 6h            |
+| **Multi-KPI Reporting Engine**  | Cleaned and organized 5–6 Excel exports across 13 markets and 23 KPIs with command-line breakdowns    | Python, Pandas, CLI        | ⏱️ 6h → 30min (92%)     |
+| **RCA Insight Script**          | Drilldown automation to support QA root cause analysis, surfacing key performance patterns            | Python, Pandas, Excel      | Boosted QA insights     |
+| **Attendance Tracker**          | VBA-powered Excel tools to monitor employee adherence, activity violations, and break automation      | Excel VBA                  | Improved visibility     |
+| **Ops & QA Dashboards**         | Interactive Excel dashboards for QA & Operations teams with actionable KPI drilldowns                 | Excel Dashboards           | Data-driven decisions   |
 ## 📬 Let’s Connect
 
-- **LinkedIn:** [linkedin.com/in/dimitriosgogos](https://www.linkedin.com/in/dimitriosgogos/)
+- **LinkedIn:** [linkedin.com/in/dimitriosgogos](www.linkedin.com/in/dimitrios-gogos-57a1b7231)
 - **GitHub:** [github.com/jimgk](https://github.com/jimgk)
 
 Thanks for visiting!
